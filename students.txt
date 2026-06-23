@@ -1,4 +1,0 @@
-Jai,75
-Piyush,85
-Raunak,65
-Ankit,30
